@@ -1,0 +1,26 @@
+{
+  "module": "subtitle-gen-ai",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "transcribe": {
+      "enabled": true
+    },
+    "translate": {
+      "enabled": true
+    },
+    "formats": {
+      "enabled": true
+    },
+    "watch": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
