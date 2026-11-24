@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="subtitle-gen-ai" width="840" />
-
 # SubtitleGenAi — Automatic Subtitle Generator for Any Video (One-Command Setup, Prebuilt Release)
 
 <p><strong>SubtitleGenAi — Automatic Subtitle Generator for Any Video (One-Command Setup, Prebuilt Release): Subtitles for any video in 100+ languages. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
