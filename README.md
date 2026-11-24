@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: subtitle-gen-ai, whisper, srt, captions, video, subtitles, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+subtitles whisper srt captions video subtitle-gen-ai auto-subtitles ai-subtitle-gen windows portable prebuilt x64 free download
+related: subtitles, whisper, srt, captions, video
